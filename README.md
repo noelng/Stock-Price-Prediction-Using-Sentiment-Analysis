@@ -1,1 +1,1 @@
-# NgramPOS-based-Statistical-and-Linguistic-Feature-Process-Model-for-Unstructured-Text-Classification
+# Stock Price Prediction Using Sentiment Analysis
