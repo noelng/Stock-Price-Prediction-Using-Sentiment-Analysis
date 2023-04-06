@@ -1,6 +1,6 @@
 # Stock Price Prediction Using Sentiment Analysis
 
-The Stock market prediction has been one of the highly challenging problems 
+The stock market prediction has been one of the highly challenging problems 
 in the field of machine learning due to the stock price movements that are known to be 
 highly random, non-linear and non-stationery. In recent years, various feature 
 processing and machine learning techniques such as Ngram, Part of Speech tagging, 
